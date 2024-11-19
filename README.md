@@ -1,7 +1,14 @@
 ## ASP.NET API
 ### CRUD
 ### References
+https://www.entityframeworktutorial.net/efcore/fluent-api-in-entity-framework-core.aspx
+https://learn.microsoft.com/en-us/ef/core/modeling/
 https://www.youtube.com/watch?v=6YIRKBsRWVI&t=214s
+https://learn.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1?view=net-8.0
+https://stackoverflow.com/questions/52417721/return-multiple-values-from-a-c-sharp-asynchronous-method 
+
+Intead of multiple instance db, used as multiple handling of "add" in async with param nested DTO(?)
+https://stackoverflow.com/questions/76522778/multiple-instances-of-a-db-context-in-web-api-controller 
 
 ## ASP.Net_Core_MVC_Notes
 ### Models:

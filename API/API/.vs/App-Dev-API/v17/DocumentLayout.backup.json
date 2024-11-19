@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\api\\api\\app-dev-api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|solutionrelative:app-dev-api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\api\\api\\app-dev-api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|solutionrelative:app-dev-api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\api\\api\\app-dev-api\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|solutionrelative:app-dev-api\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\api\\api\\app-dev-api\\models\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|solutionrelative:app-dev-api\\models\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Models\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "App-Dev-API\\Models\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Models\\Service\\UserService.cs",
+              "RelativeToolTip": "App-Dev-API\\Models\\Service\\UserService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:49:09.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "App-Dev-API\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "App-Dev-API\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAC4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:41:05.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "App-Dev-API\\Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "App-Dev-API\\Models\\Entities\\Student.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:32:19.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "App-Dev-API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "App-Dev-API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwFMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:22:15.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
