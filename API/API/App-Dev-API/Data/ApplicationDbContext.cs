@@ -10,6 +10,7 @@ namespace AppDev.API.Data
         }
         public DbSet<Student> Students { get; set; }
         public DbSet<User> Users { get; set; }
+        public DbSet<Waypoint> Waypoints { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
@@ -43,6 +44,22 @@ namespace AppDev.API.Data
                       .WithOne()
                       .HasForeignKey<User>(user => user.StudentIdentification)
                       .OnDelete(DeleteBehavior.Restrict);
+            });
+
+            modelBuilder.Entity<Waypoint>(entity => {
+                entity.HasKey(waypoint => waypoint.WaypointId);
+                entity.Property(waypoint => waypoint.WaypointName)
+                      .IsRequired()
+                      .HasMaxLength(200);
+                entity.Property(waypoint => waypoint.WaypointType)
+                      .IsRequired()
+                      .HasMaxLength (200);
+                entity.Property(waypoint => waypoint.PointX)
+                      .IsRequired();
+                entity.Property(waypoint => waypoint.PointY)
+                      .IsRequired();
+                entity.HasIndex(waypoint => waypoint.WaypointName)
+                      .IsUnique();
             });
         }
     }

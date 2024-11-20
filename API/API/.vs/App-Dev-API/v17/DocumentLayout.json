@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\api\\api\\app-dev-api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|solutionrelative:app-dev-api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Migrations\\20241120062349_sixth-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App-Dev-API\\Migrations\\20241120062349_sixth-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\api\\api\\app-dev-api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|solutionrelative:app-dev-api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\api\\api\\app-dev-api\\models\\datatransferobject\\waypoint\\waypointdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|solutionrelative:app-dev-api\\models\\datatransferobject\\waypoint\\waypointdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\api\\api\\app-dev-api\\models\\entities\\waypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|solutionrelative:app-dev-api\\models\\entities\\waypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Migrations\\20241120061706_fifth-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App-Dev-API\\Migrations\\20241120061706_fifth-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\api\\api\\app-dev-api\\models\\mapper\\waypointmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|solutionrelative:app-dev-api\\models\\mapper\\waypointmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\api\\api\\app-dev-api\\controllers\\waypointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|solutionrelative:app-dev-api\\controllers\\waypointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\api\\api\\app-dev-api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|solutionrelative:app-dev-api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\api\\api\\app-dev-api\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|solutionrelative:app-dev-api\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\api\\api\\app-dev-api\\models\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2D87449-84FB-42EB-9C02-299ACC90F8FB}|App-Dev-API\\AppDev.API.csproj|solutionrelative:app-dev-api\\models\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +42,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Models\\Service\\UserService.cs",
-              "RelativeDocumentMoniker": "App-Dev-API\\Models\\Service\\UserService.cs",
-              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Models\\Service\\UserService.cs",
-              "RelativeToolTip": "App-Dev-API\\Models\\Service\\UserService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBYAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "20241120062349_sixth-migration.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Migrations\\20241120062349_sixth-migration.cs",
+              "RelativeDocumentMoniker": "App-Dev-API\\Migrations\\20241120062349_sixth-migration.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Migrations\\20241120062349_sixth-migration.cs",
+              "RelativeToolTip": "App-Dev-API\\Migrations\\20241120062349_sixth-migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:49:09.795Z"
+              "WhenOpened": "2024-11-20T06:23:49.97Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudentsController.cs",
-              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "App-Dev-API\\Controllers\\StudentsController.cs",
-              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "App-Dev-API\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAC4AAAAlAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "20241120061706_fifth-migration.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Migrations\\20241120061706_fifth-migration.cs",
+              "RelativeDocumentMoniker": "App-Dev-API\\Migrations\\20241120061706_fifth-migration.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Migrations\\20241120061706_fifth-migration.cs",
+              "RelativeToolTip": "App-Dev-API\\Migrations\\20241120061706_fifth-migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:41:05.189Z",
+              "WhenOpened": "2024-11-20T06:17:06.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "App-Dev-API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "App-Dev-API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:15:34.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WaypointMapper.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Models\\Mapper\\WaypointMapper.cs",
+              "RelativeDocumentMoniker": "App-Dev-API\\Models\\Mapper\\WaypointMapper.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Models\\Mapper\\WaypointMapper.cs",
+              "RelativeToolTip": "App-Dev-API\\Models\\Mapper\\WaypointMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:13:57.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Waypoint.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Models\\Entities\\Waypoint.cs",
+              "RelativeDocumentMoniker": "App-Dev-API\\Models\\Entities\\Waypoint.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Models\\Entities\\Waypoint.cs",
+              "RelativeToolTip": "App-Dev-API\\Models\\Entities\\Waypoint.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:13:05.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Models\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "App-Dev-API\\Models\\Entities\\Student.cs",
-              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Models\\Entities\\Student.cs",
-              "RelativeToolTip": "App-Dev-API\\Models\\Entities\\Student.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Title": "WaypointDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Models\\DataTransferObject\\Waypoint\\WaypointDTOs.cs",
+              "RelativeDocumentMoniker": "App-Dev-API\\Models\\DataTransferObject\\Waypoint\\WaypointDTOs.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Models\\DataTransferObject\\Waypoint\\WaypointDTOs.cs",
+              "RelativeToolTip": "App-Dev-API\\Models\\DataTransferObject\\Waypoint\\WaypointDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:32:19.288Z"
+              "WhenOpened": "2024-11-20T06:13:01.057Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "App-Dev-API\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Controllers\\UsersController.cs",
               "RelativeToolTip": "App-Dev-API\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwFMAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:22:15.106Z"
+              "WhenOpened": "2024-11-20T04:59:26.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WaypointsController.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Controllers\\WaypointsController.cs",
+              "RelativeDocumentMoniker": "App-Dev-API\\Controllers\\WaypointsController.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\API\\API\\App-Dev-API\\Controllers\\WaypointsController.cs",
+              "RelativeToolTip": "App-Dev-API\\Controllers\\WaypointsController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwDUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:12:04.788Z",
+              "EditorCaption": ""
             }
           ]
         }

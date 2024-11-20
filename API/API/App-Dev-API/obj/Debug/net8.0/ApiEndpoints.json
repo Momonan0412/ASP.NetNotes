@@ -126,6 +126,85 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "AppDev.API.Controllers.WaypointsController",
+    "Method": "GetAllWaypoints",
+    "RelativePath": "api/Waypoints",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppDev.API.Controllers.WaypointsController",
+    "Method": "AddWaypoint",
+    "RelativePath": "api/Waypoints",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "waypointDTO",
+        "Type": "AppDev.API.Models.DataTransferObject.Waypoint.WaypointDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppDev.API.Controllers.WaypointsController",
+    "Method": "GetWaypointById",
+    "RelativePath": "api/Waypoints/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppDev.API.Controllers.WaypointsController",
+    "Method": "DeleteWaypoint",
+    "RelativePath": "api/Waypoints/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppDev.API.Controllers.WaypointsController",
+    "Method": "UpdateWaypoint",
+    "RelativePath": "api/Waypoints/{id}/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "waypointDTO",
+        "Type": "AppDev.API.Models.DataTransferObject.Waypoint.WaypointDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "AuthenticationAPI.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
